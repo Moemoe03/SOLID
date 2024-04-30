@@ -28,5 +28,10 @@
     <version>1.18.30</version>
     <scope>provided</scope>
 </dependency>
+  	<dependency>
+  		<groupId>io.github.Moemoe03</groupId>
+  		<artifactId>ANIMAL</artifactId>
+  		<version>0.0.1-SNAPSHOT</version>
+  	</dependency>
   </dependencies>
 </project>
